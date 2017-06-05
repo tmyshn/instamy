@@ -1,0 +1,14 @@
+c:\users\tmyshn\documents\visual studio 2015\Projects\instamy\instamy\bin\Debug\instamy.exe.config
+c:\users\tmyshn\documents\visual studio 2015\Projects\instamy\instamy\bin\Debug\instamy.exe
+c:\users\tmyshn\documents\visual studio 2015\Projects\instamy\instamy\bin\Debug\instamy.pdb
+c:\users\tmyshn\documents\visual studio 2015\Projects\instamy\instamy\obj\Debug\instamy.csprojResolveAssemblyReference.cache
+c:\users\tmyshn\documents\visual studio 2015\Projects\instamy\instamy\obj\Debug\instamy.Form1.resources
+c:\users\tmyshn\documents\visual studio 2015\Projects\instamy\instamy\obj\Debug\instamy.Properties.Resources.resources
+c:\users\tmyshn\documents\visual studio 2015\Projects\instamy\instamy\obj\Debug\instamy.csproj.GenerateResource.Cache
+c:\users\tmyshn\documents\visual studio 2015\Projects\instamy\instamy\obj\Debug\instamy.exe
+c:\users\tmyshn\documents\visual studio 2015\Projects\instamy\instamy\obj\Debug\instamy.pdb
+c:\Users\tmyshn\documents\visual studio 2015\Projects\instamy\instamy\bin\Debug\Newtonsoft.Json.dll
+c:\Users\tmyshn\documents\visual studio 2015\Projects\instamy\instamy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tmyshn\documents\visual studio 2015\Projects\instamy\instamy\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tmyshn\documents\visual studio 2015\Projects\instamy\instamy\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tmyshn\documents\visual studio 2015\Projects\instamy\instamy\bin\Debug\HtmlAgilityPack.xml
